@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.env
+outputs/*.pkl
+outputs/feedback_log.csv
